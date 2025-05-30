@@ -1,0 +1,8 @@
+button.mui-button {
+  background-color: green;
+  &.large {
+    width: 360px;
+    height: 50px;
+    border-radius: 10px;
+  }
+}
